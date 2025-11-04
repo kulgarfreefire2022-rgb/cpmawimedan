@@ -20,7 +20,7 @@ pkg i python-numpy
 
 pip install rich --upgrade
 
-pip install -r requirements.txt
+pip install -r requirementss.txt
 
 pip3 install pystyle
 
